@@ -1,5 +1,5 @@
-# Bioinformatics-Resources
+# Bioinformatics Resources From Nordics
 
-A list of Github repositories that provide programming and bioinformatics resources for learning and training. The list was initially compiled by [RSG-Sweden](rsg-sweden.iscbsc.org)
+A list of Github repositories that provide programming and bioinformatics resources for learning and training, provided by people in Nordics.
 
 
