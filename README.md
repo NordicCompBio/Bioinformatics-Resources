@@ -1,5 +1,5 @@
 # Bioinformatics Resources From Nordics
 
-A list of Github repositories that provide programming and bioinformatics resources for learning and training, provided by people in Nordics.
+We aim to compile a list of bioinformatics resources and tools that are created/provided by people in Nordics, for learning and training.
 
 
