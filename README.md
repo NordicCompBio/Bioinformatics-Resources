@@ -20,7 +20,7 @@ The list was initially compiled as part of [RSG-Sweden](rsg-sweden.iscbsc.org)
 11. [Bioinformatics training by Pacific Biosciences](https://github.com/PacificBiosciences/Bioinformatics-Training/wiki)
 
 
-##Contributors:
+## Contributors:
 - Nazeefa Fatima
 - Johan Österlund
 
