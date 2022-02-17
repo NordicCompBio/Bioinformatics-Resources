@@ -1,24 +1,106 @@
-# Bioinformatics Resources From Nordic 🇩🇰 🇸🇪 🇳🇴 🇮🇸 🇫🇮
+# 1. Bioinformatics Resources From Nordic 🇩🇰 🇸🇪 🇳🇴 🇮🇸 🇫🇮
 
 We aim to compile a list of bioinformatics resources and tools that are created/provided by people in Nordics, for learning and training.
 
-## Open-source practice datasets
+## 1.1 Open-source Practice Datasets
+Nordic databases containing curated and well-annotated testing datasets.
 
-## Miscelleanous Resources from/outside Nordic:
-The list was initially compiled as part of [RSG-Sweden](rsg-sweden.iscbsc.org)
+### Genomics
 
+### Transcriptomics
+
+### Proteomics
+
+### Metabolomics
+
+### Systems Biology
+
+### Epigenetics
+
+### Simulation
+
+### Other
+
+## 1.2 Coding Tutorials
+Tutorials and lectures developed by Nordic organisations and/or researchers. 
+
+### General Coding Practices
+
+### Genomics
+
+### Transcriptomics
+
+### Proteomics
+
+### Metabolomics
+
+### Systems Biology
+
+### Epigenetics
+
+### Simulation
+
+### Other
+
+## 1.3 Bioinformatics Concepts
+Nordic resources in form of books, articles, web pages and other resources that describe bioinformatic concepts but does not include coding practice. 
+
+# 2. Bioinformatic Resources From Outside Nordic:
+
+## 2.1 General or Mixed bioinformatic resources
+1. [Biotools - A compilation of Bioinformatic Resources by John Didion](https://github.com/jdidion/biotools)
+2. [Awesome Bioinformatics - A compilation of Bioinformatic Resources by Daniel E Cook](https://github.com/danielecook/Awesome-Bioinformatics)
+3. [Learning Bioinformatics for free at Open Source Society University (OSSU)](https://github.com/ossu/bioinformatics)
+
+## 2.2 Open-source Practice Datasets
+Any database containing curated and well-annotated testing datasets.
+
+### Genomics
+
+### Transcriptomics
+
+### Proteomics
+
+### Metabolomics
+
+### Systems Biology
+
+### Epigenetics
+
+### Simulation
+
+### Other
+
+## 2.3 Coding Tutorials
+Tutorials and lectures developed by any organisation and/or researcher. 
+
+### General Coding Practices
+1. [Getting started with Unix, R, and Python at Software Carpentry](https://software-carpentry.org/)
+2. [Unix - Useful oneliners by Stephen Turner](https://github.com/stephenturner/oneliners)
+
+### Genomics
 1. [Getting started with genomics tools and resources](https://github.com/crazyhottommy/getting-started-with-genomics-tools-and-resources)
-2. [Introduction to Bioinformatics](https://github.com/rsh249/bioinformatics)
-3. https://github.com/dariober/bioinformatics-cafe
-4. https://github.com/jdidion/biotools
-5. https://github.com/stephenturner/oneliners
-6. [Introduction to Applied Bioinformatics](https://github.com/applied-bioinformatics/An-Introduction-To-Applied-Bioinformatics)
-7. https://github.com/danielecook/Awesome-Bioinformatics
-8. [Introduction to DNA-Seq analysis - Workshop](https://github.com/mbourgey/Kyoto_DNAseq_workshop)
-9. [Self-taught courses in bioinformatics](https://github.com/ossu/bioinformatics)
-10. [BioInfoHacks: Bioinformatics Hacks](https://github.com/audy/bioinformatics-hacks)
-11. [Bioinformatics training by Pacific Biosciences](https://github.com/PacificBiosciences/Bioinformatics-Training/wiki)
+2. [DNA-Seq workshop by Mathieu Bourgey, 2018](https://github.com/mbourgey/Kyoto_DNAseq_workshop)
 
+### Transcriptomics
+
+### Proteomics
+
+### Metabolomics
+
+### Systems Biology
+
+### Epigenetics
+
+### Simulation
+
+### Other
+
+## 2.3 Bioinformatics Concepts
+Any book, article, web page and other resources that describe bioinformatic concepts but does not include coding practice.
+
+### General
+1. [An Introduction to Applied Bioinformatics, 2nd Edition](http://readiab.org/introduction.html)
 
 ## Contributors:
 - Nazeefa Fatima
