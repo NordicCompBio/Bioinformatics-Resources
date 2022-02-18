@@ -77,6 +77,9 @@ Tutorials and lectures developed by any organisation and/or researcher.
 ### General Coding Practices
 1. [Getting started with Unix, R, and Python at Software Carpentry](https://software-carpentry.org/)
 2. [Unix - Useful oneliners by Stephen Turner](https://github.com/stephenturner/oneliners)
+3. [Unix - Getting started with Linux](https://training.linuxfoundation.org/free-linux-training)
+4. [Python - Getting started at w3schools](https://www.w3schools.com/python/)
+5. [R - Getting started at Datacamp](https://www.datacamp.com/courses/free-introduction-to-r)
 
 ### Genomics
 1. [Getting started with genomics tools and resources](https://github.com/crazyhottommy/getting-started-with-genomics-tools-and-resources)
