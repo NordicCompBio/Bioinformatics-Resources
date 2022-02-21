@@ -51,6 +51,7 @@ Nordic resources in form of books, articles, web pages and other resources that 
 1. [Biotools - A compilation of Bioinformatic Resources by John Didion](https://github.com/jdidion/biotools)
 2. [Awesome Bioinformatics - A compilation of Bioinformatic Resources by Daniel E Cook](https://github.com/danielecook/Awesome-Bioinformatics)
 3. [Learning Bioinformatics for free at Open Source Society University (OSSU)](https://github.com/ossu/bioinformatics)
+4. [EMBL-EBI on-demand training](https://www.ebi.ac.uk/training/on-demand)
 
 ## 2.2 Open-source Practice Datasets
 Any database containing curated and well-annotated testing datasets.
