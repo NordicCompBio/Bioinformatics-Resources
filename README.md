@@ -2,6 +2,10 @@
 
 We aim to compile a list of bioinformatics resources and tools that are created/provided by people in Nordics, for learning and training.
 
+**How to contribute?** Contribute by submitting pull requests, or posting suggestions as issues. Thank you.
+
+#
+
 ## 1.1 Open-source Practice Datasets
 Nordic databases containing curated and well-annotated testing datasets.
 
