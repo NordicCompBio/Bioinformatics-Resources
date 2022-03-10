@@ -4,6 +4,8 @@ We aim to compile a list of bioinformatics resources and tools that are created/
 
 **How to contribute?** Contribute by submitting pull requests, or posting suggestions as issues. Thank you.
 
+<img width="200" alt="ncb_logo" src="https://user-images.githubusercontent.com/6730853/139441283-ae67512d-d219-4f4f-ba12-8b0c408c71e5.png">
+
 #
 
 ## 1.1 Open-source Practice Datasets
