@@ -1,5 +1,13 @@
 # 2. Bioinformatic Resources From Outside Nordic:
 
+We aim to compile a list of bioinformatics resources and tools that are created/provided by people in Nordics, for learning and training.
+
+**How to contribute?** Contribute by submitting [pull requests](https://github.com/NordicCompBio/Bioinformatics-Resources/pulls), or posting suggestions as [issues](https://github.com/NordicCompBio/Bioinformatics-Resources/issues). Thank you.
+
+<img width="200" alt="ncb_logo" src="https://user-images.githubusercontent.com/6730853/139441283-ae67512d-d219-4f4f-ba12-8b0c408c71e5.png">
+
+#
+
 ## 2.1 General or Mixed bioinformatic resources
 1. [Biotools - A compilation of Bioinformatic Resources by John Didion](https://github.com/jdidion/biotools)
 2. [Awesome Bioinformatics - A compilation of Bioinformatic Resources by Daniel E Cook](https://github.com/danielecook/Awesome-Bioinformatics)
@@ -62,6 +70,5 @@ Any book, article, web page and other resources that describe bioinformatic conc
 ## Contributors:
 - Nazeefa Fatima
 - Johan Österlund
-
 
 Contribute by submitting [pull requests](https://github.com/NordicCompBio/Bioinformatics-Resources/pulls), or posting suggestions as [issues](https://github.com/NordicCompBio/Bioinformatics-Resources/issues). Thank you.
