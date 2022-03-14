@@ -13,7 +13,8 @@ We aim to compile a list of bioinformatics resources and tools that are created/
 |1.3|[Bioinformatics Concepts](https://github.com/NordicCompBio/Bioinformatics-Resources/blob/main/README.md#13-bioinformatics-concepts)|
 |1.4|[General or Mixed bioinformatics resources](https://github.com/NordicCompBio/Bioinformatics-Resources/blob/main/README.md#14)|
 
-**[How to contribute?]()**
+**How to contribute?** <br>
+Contribute by submitting [pull requests](https://github.com/NordicCompBio/Bioinformatics-Resources/pulls), or posting suggestions as [issues](https://github.com/NordicCompBio/Bioinformatics-Resources/issues). Thank you.
 
 Happy sharing and learning!
 
@@ -75,9 +76,6 @@ Nordic resources in form of books, articles, web pages and other resources that 
 - Nazeefa Fatima
 - Johan Österlund
 - Xiaokang Zhang
-
-**How to contribute?** <br>
-Contribute by submitting [pull requests](https://github.com/NordicCompBio/Bioinformatics-Resources/pulls), or posting suggestions as [issues](https://github.com/NordicCompBio/Bioinformatics-Resources/issues). Thank you.
 
 #
 
