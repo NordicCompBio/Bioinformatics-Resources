@@ -66,7 +66,7 @@ Nordic resources in form of books, articles, web pages and other resources that 
 <!-- Add here -->
 
 ## 1.4 General/Miscellaneous (including tool) resources
-1. [RASflow: RNA-Seq Analysis Snakemake Workflow by Xiaokang Zhang](https://github.com/zhxiaokang/RASflow) :norway:
+1. [RASflow: RNA-Seq Analysis Snakemake Workflow](https://github.com/zhxiaokang/RASflow) by Xiaokang Zhang :norway:
 2. [Bifrost: highly parallel construction and indexing of colored and compacted de Bruijn graphs](https://github.com/pmelsted/bifrost) :iceland:
 3. [Ratatosk: hybrid error correction of long reads enables accurate variant calling and assembly](https://github.com/DecodeGenetics/Ratatosk) :iceland:
 
