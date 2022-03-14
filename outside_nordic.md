@@ -8,13 +8,7 @@ We aim to compile a list of bioinformatics resources and tools that are created 
 
 #
 
-## 2.1 General or Mixed bioinformatic resources
-1. [Biotools - A compilation of Bioinformatic Resources by John Didion](https://github.com/jdidion/biotools)
-2. [Awesome Bioinformatics - A compilation of Bioinformatic Resources by Daniel E Cook](https://github.com/danielecook/Awesome-Bioinformatics)
-3. [Learning Bioinformatics for free at Open Source Society University (OSSU)](https://github.com/ossu/bioinformatics)
-4. [EMBL-EBI on-demand training](https://www.ebi.ac.uk/training/on-demand)
-
-## 2.2 Open-source Practice Datasets
+## 2.1 Open-source Practice Datasets
 Any database containing curated and well-annotated testing datasets.
 
 ### Genomics
@@ -33,7 +27,7 @@ Any database containing curated and well-annotated testing datasets.
 
 ### Other
 
-## 2.3 Coding Tutorials
+## 2.2 Coding Tutorials
 Tutorials and lectures developed by any organisation and/or researcher. 
 
 ### General Coding Practices
@@ -61,11 +55,17 @@ Tutorials and lectures developed by any organisation and/or researcher.
 
 ### Other
 
-## 2.4 Bioinformatics Concepts
+## 2.3 Bioinformatics Concepts
 Any book, article, web page and other resources that describe bioinformatic concepts but does not include coding practice.
 
 ### General
 1. [An Introduction to Applied Bioinformatics, 2nd Edition](http://readiab.org/introduction.html)
+
+## 2.4 General or Mixed bioinformatic resources
+1. [Biotools - A compilation of Bioinformatic Resources by John Didion](https://github.com/jdidion/biotools)
+2. [Awesome Bioinformatics - A compilation of Bioinformatic Resources by Daniel E Cook](https://github.com/danielecook/Awesome-Bioinformatics)
+3. [Learning Bioinformatics for free at Open Source Society University (OSSU)](https://github.com/ossu/bioinformatics)
+4. [EMBL-EBI on-demand training](https://www.ebi.ac.uk/training/on-demand)
 
 ## Contributors:
 - Nazeefa Fatima
