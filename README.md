@@ -10,7 +10,7 @@ We aim to compile a list of bioinformatics resources and tools that are created/
 ## 1.1 General or Mixed bioinformatic resources
 1. [RASflow: RNA-Seq Analysis Snakemake Workflow by Xiaokang Zhang](https://github.com/zhxiaokang/RASflow) :norway:
 2. [Bifrost: highly parallel construction and indexing of colored and compacted de Bruijn graphs](https://github.com/pmelsted/bifrost) :iceland:
-3. 
+3. [Ratatosk: hybrid error correction of long reads enables accurate variant calling and assembly](https://github.com/DecodeGenetics/Ratatosk)
 
 ## 1.2 Open-source Practice Datasets
 Nordic databases containing curated and well-annotated testing datasets.
