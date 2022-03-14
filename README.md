@@ -7,8 +7,10 @@ We aim to compile a list of bioinformatics resources and tools that are created/
 <img width="200" alt="ncb_logo" src="https://user-images.githubusercontent.com/6730853/139441283-ae67512d-d219-4f4f-ba12-8b0c408c71e5.png">
 
 #
+## 1.1 General or Mixed bioinformatic resources
+1. [RASflow: RNA-Seq Analysis Snakemake Workflow by Xiaokang Zhang](https://github.com/zhxiaokang/RASflow)
 
-## 1.1 Open-source Practice Datasets
+## 1.2 Open-source Practice Datasets
 Nordic databases containing curated and well-annotated testing datasets.
 
 ### Genomics
@@ -27,7 +29,7 @@ Nordic databases containing curated and well-annotated testing datasets.
 
 ### Other
 
-## 1.2 Coding Tutorials
+## 1.3 Coding Tutorials
 Tutorials and lectures developed by Nordic organisations and/or researchers. 
 
 ### General Coding Practices
@@ -48,7 +50,7 @@ Tutorials and lectures developed by Nordic organisations and/or researchers.
 
 ### Other
 
-## 1.3 Bioinformatics Concepts
+## 1.4 Bioinformatics Concepts
 Nordic resources in form of books, articles, web pages and other resources that describe bioinformatic concepts but does not include coding practice. 
 
 # 2. Bioinformatic Resources From Outside Nordic:
@@ -106,7 +108,7 @@ Tutorials and lectures developed by any organisation and/or researcher.
 
 ### Other
 
-## 2.3 Bioinformatics Concepts
+## 2.4 Bioinformatics Concepts
 Any book, article, web page and other resources that describe bioinformatic concepts but does not include coding practice.
 
 ### General
