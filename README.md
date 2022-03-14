@@ -3,6 +3,9 @@
 We aim to compile a list of bioinformatics resources and tools that are created/provided by people in Nordics, for learning and training.
 
 **Structure**
+- README.md contains _Bioinformatics Resources From Nordic_.
+- [outside_nordic.md](https://github.com/NordicCompBio/Bioinformatics-Resources/blob/main/outside_nordic.md) contains _bioinformatics resources from other regions across the globe_.
+
 |Section|Name|Description|
 |-------|-----|-----------|
 |1.1|[Open-source Practice Datasets](https://github.com/NordicCompBio/Bioinformatics-Resources/blob/main/README.md#11-open-source-practice-datasets)|   |
@@ -10,8 +13,7 @@ We aim to compile a list of bioinformatics resources and tools that are created/
 |1.3|[Bioinformatics Concepts](https://github.com/NordicCompBio/Bioinformatics-Resources/blob/main/README.md#13-bioinformatics-concepts)|
 |1.4|[General or Mixed bioinformatics resources](https://github.com/NordicCompBio/Bioinformatics-Resources/blob/main/README.md#14)|
 
-**How to contribute?** <br>
-Contribute by submitting [pull requests](https://github.com/NordicCompBio/Bioinformatics-Resources/pulls), or posting suggestions as [issues](https://github.com/NordicCompBio/Bioinformatics-Resources/issues). Thank you.
+**[How to contribute?]()**
 
 Happy sharing and learning!
 
@@ -73,6 +75,9 @@ Nordic resources in form of books, articles, web pages and other resources that 
 - Nazeefa Fatima
 - Johan Österlund
 - Xiaokang Zhang
+
+**How to contribute?** <br>
+Contribute by submitting [pull requests](https://github.com/NordicCompBio/Bioinformatics-Resources/pulls), or posting suggestions as [issues](https://github.com/NordicCompBio/Bioinformatics-Resources/issues). Thank you.
 
 #
 
