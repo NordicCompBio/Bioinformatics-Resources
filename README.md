@@ -15,15 +15,6 @@ Contribute by submitting [pull requests](https://github.com/NordicCompBio/Bioinf
 
 Happy sharing and learning!
 
-#### ~Nordic CompBio Team
-<img width="190" alt="ncb_logo" src="https://user-images.githubusercontent.com/6730853/139441283-ae67512d-d219-4f4f-ba12-8b0c408c71e5.png">
-<p align="left">
-  <a href="https://twitter.com/NordicCompBio"><img src="https://img.icons8.com/color/50/000000/twitter-squared.png" alt="Twitter"/></a>
-  <a href="https://www.linkedin.com/company/nordic-compbio/"><img src="https://img.icons8.com/color/50/000000/linkedin.png" alt="linkedin"/></a>
-  <a href="https://www.youtube.com/channel/UCy94PIIziV318QL1bF7Z8TA"><img src="https://img.icons8.com/color/50/000000/youtube.png" alt="YouTube"/></a>
-  <a href="mailto:nordic.compbio@gmail.com"><img src="https://img.icons8.com/color/50/000000/gmail.png" alt="Gmail"/></a>
-</p>
-
 #
 
 ## 1.1 Open-source Practice Datasets
@@ -81,5 +72,19 @@ Nordic resources in form of books, articles, web pages and other resources that 
 ## Contributors:
 - Nazeefa Fatima
 - Johan Österlund
+- Xiaokang Zhang
+
+#
+
+## Created and maintained by:
+
+#### ~Nordic CompBio Team
+<img width="190" alt="ncb_logo" src="https://user-images.githubusercontent.com/6730853/139441283-ae67512d-d219-4f4f-ba12-8b0c408c71e5.png">
+<p align="left">
+  <a href="https://twitter.com/NordicCompBio"><img src="https://img.icons8.com/color/50/000000/twitter-squared.png" alt="Twitter"/></a>
+  <a href="https://www.linkedin.com/company/nordic-compbio/"><img src="https://img.icons8.com/color/50/000000/linkedin.png" alt="linkedin"/></a>
+  <a href="https://www.youtube.com/channel/UCy94PIIziV318QL1bF7Z8TA"><img src="https://img.icons8.com/color/50/000000/youtube.png" alt="YouTube"/></a>
+  <a href="mailto:nordic.compbio@gmail.com"><img src="https://img.icons8.com/color/50/000000/gmail.png" alt="Gmail"/></a>
+</p>
 
 Contribute by submitting [pull requests](https://github.com/NordicCompBio/Bioinformatics-Resources/pulls), or posting suggestions as [issues](https://github.com/NordicCompBio/Bioinformatics-Resources/issues). Thank you.
