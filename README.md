@@ -5,10 +5,10 @@ We aim to compile a list of bioinformatics resources and tools that are created/
 **Structure**
 |Section Name|Description|
 |------------|-----------|
-|1.1 [Open-source Practice Datasets](https://github.com/NordicCompBio/Bioinformatics-Resources/Open-source-practice-datasets)|   |
-|1.2 Coding Tutorials|
-|1.3 Bioinformatics Concepts|
-|1.4 General or Mixed bioinformatics resources|
+|1.1 [Open-source Practice Datasets](https://github.com/NordicCompBio/Bioinformatics-Resources/blob/main/README.md#11-open-source-practice-datasets)|   |
+|1.2 [Coding Tutorials](https://github.com/NordicCompBio/Bioinformatics-Resources/blob/main/README.md#12-coding-tutorials)|
+|1.3 [Bioinformatics Concepts]()|
+|1.4 [General or Mixed bioinformatics resources]()|
 
 **How to contribute?** Contribute by submitting [pull requests](https://github.com/NordicCompBio/Bioinformatics-Resources/pulls), or posting suggestions as [issues](https://github.com/NordicCompBio/Bioinformatics-Resources/issues). Thank you.
 
