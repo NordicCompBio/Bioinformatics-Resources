@@ -7,12 +7,8 @@ We aim to compile a list of bioinformatics resources and tools that are created/
 <img width="200" alt="ncb_logo" src="https://user-images.githubusercontent.com/6730853/139441283-ae67512d-d219-4f4f-ba12-8b0c408c71e5.png">
 
 #
-## 1.1 General or Mixed bioinformatic resources
-1. [RASflow: RNA-Seq Analysis Snakemake Workflow by Xiaokang Zhang](https://github.com/zhxiaokang/RASflow) :norway:
-2. [Bifrost: highly parallel construction and indexing of colored and compacted de Bruijn graphs](https://github.com/pmelsted/bifrost) :iceland:
-3. [Ratatosk: hybrid error correction of long reads enables accurate variant calling and assembly](https://github.com/DecodeGenetics/Ratatosk) :iceland:
 
-## 1.2 Open-source Practice Datasets
+## 1.1 Open-source Practice Datasets
 Nordic databases containing curated and well-annotated testing datasets.
 
 ### Genomics
@@ -31,7 +27,7 @@ Nordic databases containing curated and well-annotated testing datasets.
 
 ### Other
 
-## 1.3 Coding Tutorials
+## 1.2 Coding Tutorials
 Tutorials and lectures developed by Nordic organisations and/or researchers. 
 
 ### General Coding Practices
@@ -52,10 +48,15 @@ Tutorials and lectures developed by Nordic organisations and/or researchers.
 
 ### Other
 
-## 1.4 Bioinformatics Concepts
+## 1.3 Bioinformatics Concepts
 Nordic resources in form of books, articles, web pages and other resources that describe bioinformatic concepts but does not include coding practice.
 
 <!-- Add here -->
+
+## 1.4 General/Miscellaneous (including tool) resources
+1. [RASflow: RNA-Seq Analysis Snakemake Workflow by Xiaokang Zhang](https://github.com/zhxiaokang/RASflow) :norway:
+2. [Bifrost: highly parallel construction and indexing of colored and compacted de Bruijn graphs](https://github.com/pmelsted/bifrost) :iceland:
+3. [Ratatosk: hybrid error correction of long reads enables accurate variant calling and assembly](https://github.com/DecodeGenetics/Ratatosk) :iceland:
 
 #
 
