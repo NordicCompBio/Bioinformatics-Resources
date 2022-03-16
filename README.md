@@ -10,7 +10,7 @@ We aim to compile a list of bioinformatics resources and tools that are created/
 |-------|-----|-----------|
 |1.1|[Open-source Practice Datasets](https://github.com/NordicCompBio/Bioinformatics-Resources/blob/main/README.md#11-open-source-practice-datasets)| Nordic databases containing curated and well-annotated testing datasets. |
 |1.2|[Coding Tutorials](https://github.com/NordicCompBio/Bioinformatics-Resources/blob/main/README.md#12-coding-tutorials)| Tutorials and lectures developed by Nordic organisations and/or researchers.|
-|1.3|[Bioinformatics Concepts](https://github.com/NordicCompBio/Bioinformatics-Resources/blob/main/README.md#13-bioinformatics-concepts)|Nordic resources in form of books, articles, web pages and other resources that describe bioinformatic concepts but does not include coding practice.|
+|1.3|[Bioinformatics Concepts](https://github.com/NordicCompBio/Bioinformatics-Resources/blob/main/README.md#13-bioinformatics-concepts)| These could be in a form of books, articles, web pages and other resources that describe bioinformatic concepts but does not include coding practice.|
 |1.4|[Pipelines and Software]()| |
 |1.5|[General resources](https://github.com/NordicCompBio/Bioinformatics-Resources/blob/main/README.md#14)| |
 
@@ -62,7 +62,7 @@ Tutorials and lectures developed by Nordic organisations and/or researchers.
 ### Other
 
 ## 1.3 Bioinformatics Concepts
-Nordic resources in form of books, articles, web pages and other resources that describe bioinformatic concepts but does not include coding practice.
+These could be in a form of books, articles, web pages and other resources that describe bioinformatic concepts but does not include coding practice.
 
 <!-- Add here -->
 
