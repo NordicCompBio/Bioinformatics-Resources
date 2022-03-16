@@ -85,6 +85,8 @@ These could be in a form of books, articles, web pages and other resources that 
 - Johan Österlund
 - Xiaokang Zhang
 
+Contribute by submitting [pull requests](https://github.com/NordicCompBio/Bioinformatics-Resources/pulls), or posting suggestions as [issues](https://github.com/NordicCompBio/Bioinformatics-Resources/issues). Thank you.
+
 #
 
 ## Created and maintained by:
@@ -97,5 +99,3 @@ These could be in a form of books, articles, web pages and other resources that 
   <a href="https://www.youtube.com/channel/UCy94PIIziV318QL1bF7Z8TA"><img src="https://img.icons8.com/color/50/000000/youtube.png" alt="YouTube"/></a>
   <a href="mailto:nordic.compbio@gmail.com"><img src="https://img.icons8.com/color/50/000000/gmail.png" alt="Gmail"/></a>
 </p>
-
-Contribute by submitting [pull requests](https://github.com/NordicCompBio/Bioinformatics-Resources/pulls), or posting suggestions as [issues](https://github.com/NordicCompBio/Bioinformatics-Resources/issues). Thank you.
