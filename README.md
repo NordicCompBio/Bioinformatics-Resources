@@ -69,7 +69,7 @@ Nordic resources in form of books, articles, web pages and other resources that 
 ## 1.4 Pipelines and Software
 <!-- Add description here -->
 
-- [GenErode - a bioinformatics pipeline to investigate genome erosion in endangered and extinct species]() :sweden:
+- [GenErode - a bioinformatics pipeline to investigate genome erosion in endangered and extinct species](https://github.com/NBISweden/GenErode) :sweden:
 - [RASflow: RNA-Seq Analysis Snakemake Workflow](https://github.com/zhxiaokang/RASflow) by Xiaokang Zhang :norway:
 - [Bifrost: highly parallel construction and indexing of colored and compacted de Bruijn graphs](https://github.com/pmelsted/bifrost) :iceland:
 - [Ratatosk: hybrid error correction of long reads enables accurate variant calling and assembly](https://github.com/DecodeGenetics/Ratatosk) :iceland:
