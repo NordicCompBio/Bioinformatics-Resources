@@ -1,84 +1,28 @@
-# 1. Bioinformatics Resources From Nordic
+# 1. Bioinformatics Resources
 
-We aim to compile a list of bioinformatics resources and tools that are created/provided by people in Nordics, for learning and training.
+We aim to compile a list of bioinformatics resources that are useful for anyone interested in starting or accelerating their knowledge in the field of computational biology. Our primary aims are to: 
+1. Highlight resources that have been developed and are provided by Nordic research labs. 
+2. Compile a list of resources useful for learning computational biology and bioinformatics, disregarding contribution from nordic researchers.
 
 **Structure**
-- README.md contains _Bioinformatics Resources From Nordic_.
+- README.md contains useful information for content contribution and structure
+- [nordic.md](https://github.com/NordicCompBio/Bioinformatics-Resources/blob/main/nordic.md) contains _bioinformatics resources from Nordic regions_.
 - [outside_nordic.md](https://github.com/NordicCompBio/Bioinformatics-Resources/blob/main/outside_nordic.md) contains _bioinformatics resources from other regions across the globe_.
+
+The files nordic.md and outside_nordic.md share a common structure:
 
 |Section|Name|Description|
 |-------|-----|-----------|
-|1.1|[Open-source Practice Datasets](https://github.com/NordicCompBio/Bioinformatics-Resources/blob/main/README.md#11-open-source-practice-datasets)| Nordic databases containing curated and well-annotated testing datasets. |
-|1.2|[Coding Tutorials](https://github.com/NordicCompBio/Bioinformatics-Resources/blob/main/README.md#12-coding-tutorials)| Tutorials and lectures developed by Nordic organisations and/or researchers.|
-|1.3|[Bioinformatics Concepts](https://github.com/NordicCompBio/Bioinformatics-Resources/blob/main/README.md#13-bioinformatics-concepts)| These could be in a form of books, articles, web pages and other resources that describe bioinformatic concepts but does not include coding practice.|
-|1.4|[Pipelines and Software]()| |
-|1.5|[General resources](https://github.com/NordicCompBio/Bioinformatics-Resources/blob/main/README.md#14)| |
+|1.1|Open-source Practice Datasets|Resources that can be used to aquire good quality training data for various bioinformatic applications.|
+|1.2|Coding Tutorials|Resources that can be used to aquire or refine existing skills in commonly used programmatic languages.|
+|1.3|Bioinformatics Concepts|Resources that can used to get more in-depth information about certain bioinformatic applications or concepts.|
+|1.4|Pipelines and Software|Pipelines, tools, and softwares that are commonly used in the field of bioinformatics.|
+|1.5|General resources|Resources that are generally good to know about, which is not specific to a certain field or subfield of bioinformatics.|
 
 **How to contribute?** <br>
 Contribute by submitting [pull requests](https://github.com/NordicCompBio/Bioinformatics-Resources/pulls), or posting suggestions as [issues](https://github.com/NordicCompBio/Bioinformatics-Resources/issues). Thank you.
 
 Happy sharing and learning!
-
-#
-
-## 1.1 Open-source Practice Datasets
-Nordic databases containing curated and well-annotated testing datasets.
-
-### Genomics
-
-### Transcriptomics
-
-### Proteomics
-
-### Metabolomics
-
-### Systems Biology
-
-### Epigenetics
-
-### Simulation
-
-### Other
-
-## 1.2 Coding Tutorials
-Tutorials and lectures developed by Nordic organisations and/or researchers. 
-
-### General Coding Practices
-
-### Genomics
-
-### Transcriptomics
-
-### Proteomics
-
-### Metabolomics
-
-### Systems Biology
-
-### Epigenetics
-
-### Simulation
-
-### Other
-
-## 1.3 Bioinformatics Concepts
-These could be in a form of books, articles, web pages and other resources that describe bioinformatic concepts but does not include coding practice.
-
-<!-- Add here -->
-
-## 1.4 Pipelines and Software
-<!-- Add description here -->
-
-- [GenErode - a bioinformatics pipeline to investigate genome erosion in endangered and extinct species](https://github.com/NBISweden/GenErode) :sweden:
-- [RASflow: RNA-Seq Analysis Snakemake Workflow](https://github.com/zhxiaokang/RASflow) by Xiaokang Zhang :norway:
-- [Bifrost: highly parallel construction and indexing of colored and compacted de Bruijn graphs](https://github.com/pmelsted/bifrost) :iceland:
-- [Ratatosk: hybrid error correction of long reads enables accurate variant calling and assembly](https://github.com/DecodeGenetics/Ratatosk) :iceland:
-
-## 1.5 General (miscellaneous) resources
-
-<!-- Add here -->
-
-#
 
 ## Contributors:
 - Nazeefa Fatima
