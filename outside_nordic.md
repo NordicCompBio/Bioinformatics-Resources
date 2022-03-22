@@ -11,19 +11,19 @@ We aim to compile a list of bioinformatics resources and tools that are created 
 ## 2.1 Open-source Practice Datasets
 Any database containing curated and well-annotated testing datasets.
 
+### Epigenetics
+
 ### Genomics
-
-### Transcriptomics
-
-### Proteomics
 
 ### Metabolomics
 
-### Systems Biology
-
-### Epigenetics
+### Proteomics
 
 ### Simulation
+
+### Systems Biology
+
+### Transcriptomics
 
 ### Other
 
@@ -37,21 +37,21 @@ Tutorials and lectures developed by any organisation and/or researcher.
 4. [Python - Getting started at w3schools](https://www.w3schools.com/python/)
 5. [R - Getting started at Datacamp](https://www.datacamp.com/courses/free-introduction-to-r)
 
+### Epigenetics
+
 ### Genomics
 1. [Getting started with genomics tools and resources](https://github.com/crazyhottommy/getting-started-with-genomics-tools-and-resources)
 2. [DNA-Seq workshop by Mathieu Bourgey, 2018](https://github.com/mbourgey/Kyoto_DNAseq_workshop)
 
-### Transcriptomics
+### Metabolomics
 
 ### Proteomics
 
-### Metabolomics
+### Simulation
 
 ### Systems Biology
 
-### Epigenetics
-
-### Simulation
+### Transcriptomics
 
 ### Other
 
