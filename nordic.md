@@ -53,10 +53,37 @@ These could be in a form of books, articles, web pages and other resources that 
 ## 1.4 Pipelines and Software
 <!-- Add description here -->
 
+### Genomics
+
+#### Evolution
 - [GenErode - a bioinformatics pipeline to investigate genome erosion in endangered and extinct species](https://github.com/NBISweden/GenErode) :sweden:
-- [RASflow: RNA-Seq Analysis Snakemake Workflow](https://github.com/zhxiaokang/RASflow) by Xiaokang Zhang :norway:
-- [Bifrost: highly parallel construction and indexing of colored and compacted de Bruijn graphs](https://github.com/pmelsted/bifrost) :iceland:
+
+#### Variant Calling
 - [Ratatosk: hybrid error correction of long reads enables accurate variant calling and assembly](https://github.com/DecodeGenetics/Ratatosk) :iceland:
+
+### Transcriptomics
+
+#### Gene Expression
+Pipelines and software that can be applied to multiple high-thoughput gene expression data.
+- [csdR, an R package for differential co-expression analysis](https://github.com/AlmaasLab/csdR) by Almaas Lab :norway:
+
+#### RNA-Seq
+- [RASflow: RNA-Seq Analysis Snakemake Workflow](https://github.com/zhxiaokang/RASflow) by Xiaokang Zhang :norway:
+
+### Proteomics
+
+### Metabolomics
+
+### Systems Biology
+
+### Epigenetics
+
+### Simulation
+
+### Data Visualization
+- [Bifrost: highly parallel construction and indexing of colored and compacted de Bruijn graphs](https://github.com/pmelsted/bifrost) :iceland:
+
+### Other
 
 ## 1.5 General (miscellaneous) resources
 
