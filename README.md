@@ -19,19 +19,15 @@ The files nordic.md and outside_nordic.md share a common structure:
 |1.4|Pipelines and Software|Pipelines, tools, and softwares that are commonly used in the field of bioinformatics.|
 |1.5|General resources|Resources that are generally good to know about, which is not specific to a certain field or subfield of bioinformatics.|
 
-**How to contribute?** <br>
-Contribute by submitting [pull requests](https://github.com/NordicCompBio/Bioinformatics-Resources/pulls), or posting suggestions as [issues](https://github.com/NordicCompBio/Bioinformatics-Resources/issues). Thank you.
-
-Happy sharing and learning!
-
 ## Contributors:
 - Nazeefa Fatima
 - Johan Österlund
 - Xiaokang Zhang
 
+## How to contribute? <br>
 Contribute by submitting [pull requests](https://github.com/NordicCompBio/Bioinformatics-Resources/pulls), or posting suggestions as [issues](https://github.com/NordicCompBio/Bioinformatics-Resources/issues). Thank you.
 
-#
+Happy sharing and learning!
 
 ## Created and maintained by:
 
