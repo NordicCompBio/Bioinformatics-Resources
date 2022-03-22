@@ -43,6 +43,9 @@ Tutorials and lectures developed by any organisation and/or researcher.
 1. [Getting started with genomics tools and resources](https://github.com/crazyhottommy/getting-started-with-genomics-tools-and-resources)
 2. [DNA-Seq workshop by Mathieu Bourgey, 2018](https://github.com/mbourgey/Kyoto_DNAseq_workshop)
 
+### Machine Learning
+1. [Fast AI - by Rachel Thomas and Jeremy Howard](https://www.fast.ai/)
+
 ### Metabolomics
 
 ### Proteomics
@@ -66,6 +69,7 @@ Any book, article, web page and other resources that describe bioinformatic conc
 2. [Awesome Bioinformatics - A compilation of Bioinformatic Resources by Daniel E Cook](https://github.com/danielecook/Awesome-Bioinformatics)
 3. [Learning Bioinformatics for free at Open Source Society University (OSSU)](https://github.com/ossu/bioinformatics)
 4. [EMBL-EBI on-demand training](https://www.ebi.ac.uk/training/on-demand)
+5. [Rosalind Project - Learning Bioinformatics Through Problem Solving](https://rosalind.info/problems/locations/)
 
 ## Contributors:
 - Nazeefa Fatima
