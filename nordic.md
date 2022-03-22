@@ -8,19 +8,19 @@ Here, we aim to compile resources that have been created in Nordic regions, and 
 ## 1.1 Open-source Practice Datasets
 Nordic databases containing curated and well-annotated testing datasets.
 
+### Epigenetics
+
 ### Genomics
-
-### Transcriptomics
-
-### Proteomics
 
 ### Metabolomics
 
-### Systems Biology
-
-### Epigenetics
+### Proteomics
 
 ### Simulation
+
+### Systems Biology
+
+### Transcriptomics
 
 ### Other
 
@@ -29,19 +29,19 @@ Tutorials and lectures developed by Nordic organisations and/or researchers.
 
 ### General Coding Practices
 
+### Epigenetics
+
 ### Genomics
-
-### Transcriptomics
-
-### Proteomics
 
 ### Metabolomics
 
-### Systems Biology
-
-### Epigenetics
+### Proteomics
 
 ### Simulation
+
+### Systems Biology
+
+### Transcriptomics
 
 ### Other
 
@@ -53,6 +53,11 @@ These could be in a form of books, articles, web pages and other resources that 
 ## 1.4 Pipelines and Software
 <!-- Add description here -->
 
+### Data Visualization
+- [Bifrost: highly parallel construction and indexing of colored and compacted de Bruijn graphs](https://github.com/pmelsted/bifrost) :iceland:
+
+### Epigenetics
+
 ### Genomics
 
 #### Evolution
@@ -60,6 +65,14 @@ These could be in a form of books, articles, web pages and other resources that 
 
 #### Variant Calling
 - [Ratatosk: hybrid error correction of long reads enables accurate variant calling and assembly](https://github.com/DecodeGenetics/Ratatosk) :iceland:
+
+### Metabolomics
+
+### Proteomics
+
+### Simulation
+
+### Systems Biology
 
 ### Transcriptomics
 
@@ -69,19 +82,6 @@ Pipelines and software that can be applied to multiple high-thoughput gene expre
 
 #### RNA-Seq
 - [RASflow: RNA-Seq Analysis Snakemake Workflow](https://github.com/zhxiaokang/RASflow) by Xiaokang Zhang :norway:
-
-### Proteomics
-
-### Metabolomics
-
-### Systems Biology
-
-### Epigenetics
-
-### Simulation
-
-### Data Visualization
-- [Bifrost: highly parallel construction and indexing of colored and compacted de Bruijn graphs](https://github.com/pmelsted/bifrost) :iceland:
 
 ### Other
 
