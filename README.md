@@ -1,4 +1,4 @@
-# 1. Bioinformatics Resources
+# Bioinformatics Resources
 
 We aim to compile a list of bioinformatics resources that are useful for anyone interested in starting or accelerating their knowledge in the field of computational biology. Our primary aims are to: 
 1. Highlight resources that have been developed and are provided by Nordic research labs. 
@@ -12,7 +12,7 @@ We aim to compile a list of bioinformatics resources that are useful for anyone 
 The files nordic.md and outside_nordic.md share a common structure:
 
 |Section|Name|Description|
-|-------|-----|-----------|
+|-------|-----|----------|
 |1.1|Open-source Practice Datasets|Resources that can be used to aquire good quality training data for various bioinformatic applications.|
 |1.2|Coding Tutorials|Resources that can be used to aquire or refine existing skills in commonly used programmatic languages.|
 |1.3|Bioinformatics Concepts|Resources that can used to get more in-depth information about certain bioinformatic applications or concepts.|
