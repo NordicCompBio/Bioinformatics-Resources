@@ -1,7 +1,7 @@
 # 1. Bioinformatic Resources in Nordic Regions
 Here, we aim to compile resources that have been created in Nordic regions, and that are provided by nordic researchers/research labs.
 
-**How to contribute?** Contribute by submitting [pull requests](https://github.com/NordicCompBio/Bioinformatics-Resources/pulls), or posting suggestions as [issues](https://github.com/NordicCompBio/Bioinformatics-Resources/issues). Thank you.
+You can ontribute by submitting [pull requests](https://github.com/NordicCompBio/Bioinformatics-Resources/pulls), or posting suggestions as [issues](https://github.com/NordicCompBio/Bioinformatics-Resources/issues). Thank you.
 
 <img width="200" alt="ncb_logo" src="https://user-images.githubusercontent.com/6730853/139441283-ae67512d-d219-4f4f-ba12-8b0c408c71e5.png">
 
