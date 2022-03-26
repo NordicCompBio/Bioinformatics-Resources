@@ -89,9 +89,7 @@ Pipelines and software that can be applied to multiple high-thoughput gene expre
 
 <!-- Add here -->
 
-## Contributors:
-- Nazeefa Fatima
-- Johan Österlund
+## How to contribute?
 
 Contribute by submitting [pull requests](https://github.com/NordicCompBio/Bioinformatics-Resources/pulls), or posting suggestions as [issues](https://github.com/NordicCompBio/Bioinformatics-Resources/issues). Thank you.
 
